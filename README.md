@@ -8,7 +8,7 @@
 </div>
 
 <div id="viewprof" align="center">
-    <img src="https://komarev.com/ghpvc/?username=gase355&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=gase335&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="heythere" align="center">
@@ -42,10 +42,10 @@
 ### ⌨️: Наиболее используемые языки:
 
 <div>
-  <img src="https://github.com/anuraghazra/github-readme-stats.vercel.app/api/top-langs/?username=gase355" alt""/>
+  <img src="https://github.com/anuraghazra/github-readme-stats.vercel.app/api/top-langs/?username=gase335" alt""/>
 </div>
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gase355&theme=dracula" alt=""/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gase335&theme=dracula" alt=""/>
 </div>
 
