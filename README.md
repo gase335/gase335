@@ -36,7 +36,7 @@
 ### 🏆: Достижения:
 
 <div>
-     https://github.com/gase355/github-profile-trophy  
+     <img src="https://github-profile-trophy.vercel.app/?username=gase335" alt=""/>
 </div>
 
 ### ⌨️: Наиболее используемые языки:
