@@ -36,13 +36,13 @@
 ### 🏆: Достижения:
 
 <div>
-  <img src="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=gase355" alt=""/>
+  <img src="github-profile-trophy.vercel.app/?username=gase355" alt=""/>
 </div>
 
 ### ⌨️: Наиболее используемые языки:
 
 <div>
-  <img src="https://github.com/anuraghazra/github-readme-stats.vercel.app/api/top-langs/?username=gase335" alt""/>
+  <img src="github-readme-stats.vercel.app/api/top-langs/?username=gase335" alt""/>
 </div>
 
 <div>
