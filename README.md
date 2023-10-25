@@ -42,8 +42,10 @@
 ### ⌨️: Наиболее используемые языки:
 
 <div>
-  <img src="github-readme-stats.vercel.app/api/top-langs/?username=gase335" alt""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gase335" alt""/>
 </div>
+
+### ⌨️: Статистика и активности:
 
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gase335&theme=dracula" alt=""/>
