@@ -46,6 +46,6 @@
 </div>
 
 <div>
-  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph.vercel.app/graph?username=gase355&theme=dracula" alt=""/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gase355&theme=dracula" alt=""/>
 </div>
 
